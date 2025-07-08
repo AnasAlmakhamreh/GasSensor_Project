@@ -55,9 +55,9 @@ void main() {
 
         // LCD Display
         Lcd_Set_Cursor(1, 1);
-        Lcd_String("Gas Detected");
+        Lcd_String("Gas Reading");
         Lcd_Set_Cursor(2, 1);
-        sprintf(buffer, "Gas Level: %d", gas_level);
+        sprintf(buffer, "Value: %d", gas_level);
         Lcd_String(buffer);
 
         // LED & Buzzer Logic
