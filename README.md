@@ -18,10 +18,6 @@ The MQ-02 sensor outputs an analog voltage proportional to the gas concentration
 * `Danger (ADC >= 700):` Red LED activated.
 * `Critical (ADC >= 900):` Buzzer activated for immediate evacuation alert.
 
-## 📸 Hardware Setup & Demonstration
-![Project Demo](assets/Demo.gif)
-
-
 ## 🛠️ Software Details
 * **Language:** Bare-metal C
 * **Compiler/IDE:** MPLAB X / XC8
