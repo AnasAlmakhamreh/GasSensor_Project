@@ -19,7 +19,7 @@ The MQ-02 sensor outputs an analog voltage proportional to the gas concentration
 * `Critical (ADC >= 900):` Buzzer activated for immediate evacuation alert.
 
 ## 📸 Hardware Setup & Demonstration
-
+![Project Demo](assets/Demo.gif)
 
 
 ## 🛠️ Software Details
